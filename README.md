@@ -1,7 +1,5 @@
-# CG_VR
-
 # Integrantes
-Henrique Augusto
+Henrique Augusto\
 Samuel Spineli
 # Projeto de Interações com NPCs Inteligentes em um Ambiente Virtual
 
