@@ -1,7 +1,8 @@
 # CG_VR
 
-#Integrantes
-Henrique Augusto\\ Samuel Spineli
+# Integrantes
+Henrique Augusto
+Samuel Spineli
 # Projeto de Interações com NPCs Inteligentes em um Ambiente Virtual
 
 Este projeto consiste em um aplicativo de realidade virtual (VR) desenvolvido na Unity, integrado à API do GPT (Generative Pre-trained Transformer). O aplicativo permite interações dinâmicas com NPCs (personagens não jogáveis) inteligentes, proporcionando uma experiência imersiva onde os usuários podem explorar um ambiente virtual e dialogar com personagens controlados por IA. A interação é personalizada e natural, criando uma experiência única e interativa.
