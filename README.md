@@ -30,7 +30,3 @@ O projeto fez uso das seguintes bibliotecas:
 ## Como Utilizar
 
 O projeto pode ser executado no Windows através do arquivo **Computação Gráfica IA.exe**. Basta baixar o repositório e executar o arquivo para acessar a experiência imersiva de realidade virtual com NPCs inteligentes. Para mais detalhes sobre a configuração e execução do projeto, consulte o código-fonte no repositório.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
